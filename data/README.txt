@@ -1,0 +1,6 @@
+ec：大肠杆菌的PPI网络数据和关键蛋白质数据
+sc：酿酒酵母的PPI网络数据和关键蛋白质与非关键蛋白质数据
+artificial_network.pkl：人工构建的无标度网络数据，包括网络本身和每个节点的内在质量分数
+artificial_network_edgelist.edgelist：人工构建的无标度网络边列表数据
+key_nodes_100.txt——key_nodes_500.txt：人工无标度网络中选取的不同数量的关键节点
+artificial_network.py：生成人工无标度网络的脚本

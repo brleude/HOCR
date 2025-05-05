@@ -1,0 +1,8 @@
+bc_scores_sc.txt：酿酒酵母PPI网络各节点的介数中心性得分
+cc_scores_sc.txt：酿酒酵母PPI网络各节点的接近中心性得分
+dc_scores_sc.txt：酿酒酵母PPI网络各节点的度中心性得分
+ec_scores_sc.txt：酿酒酵母PPI网络各节点的特征向量中心性得分
+pr_scores_sc.txt：酿酒酵母PPI网络各节点的PageRank中心性得分
+cdr_scores_sc.txt：酿酒酵母PPI网络各节点的CDR得分
+csr_scores_sc.txt：酿酒酵母PPI网络各节点的CSR得分
+get_results_sc.py：得到各种结果得分的脚本

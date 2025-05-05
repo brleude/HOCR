@@ -1,0 +1,11 @@
+csr_scores_3_sc.txt：考虑最大团为3-clique时，酿酒酵母PPI网络各节点的CSR_3得分
+csr_scores_4_sc.txt：考虑最大团为4-clique时，酿酒酵母PPI网络各节点的CSR_4得分
+csr_scores_5_sc.txt：考虑最大团为5-clique时，酿酒酵母PPI网络各节点的CSR_5得分
+csr_scores_6_sc.txt：考虑最大团为6-clique时，酿酒酵母PPI网络各节点的CSR_6得分
+csr_scores_7_sc.txt：考虑最大团为7-clique时，酿酒酵母PPI网络各节点的CSR_7得分
+csr_scores_8_sc.txt：考虑最大团为8-clique时，酿酒酵母PPI网络各节点的CSR_8得分
+csr_scores_9_sc.txt：考虑最大团为9-clique时，酿酒酵母PPI网络各节点的CSR_9得分
+csr_scores_10_sc.txt：考虑最大团为10-clique时，酿酒酵母PPI网络各节点的CSR_10得分
+csr_scores_11_sc.txt：考虑最大团为11-clique时，酿酒酵母PPI网络各节点的CSR_11得分
+csr_scores_12_sc.txt：考虑最大团为12-clique时，酿酒酵母PPI网络各节点的CSR_12得分
+get_results_n_sc.py：得到各种结果得分的脚本
