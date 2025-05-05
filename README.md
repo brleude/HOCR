@@ -8,7 +8,7 @@ This project runs in the environment of `python==3.10.12`.
 You can clone this project to your local machine in the following way:
 `git clone -b master https://github.com/brleude/HOCR.git`
 ## Usage
-We use an artificially constructed scale-free network for demonstration.The relevant data can be found in `HOCR/data/`.<br>Run the following code in folder `HOCR/`  under the conda environment:
+We use an artificially constructed scale-free network for demonstration.The relevant data can be found in `HOCR/data/`.<br>**Run the following code in folder `HOCR/`  under the conda environment:**
 
 ```
 conda create -n HOCR_test python=3.10.12
@@ -44,10 +44,8 @@ arguments:
 		options of True or False.
 
 ```
-**result:**
-You can find the result in the following file:
-`output/output.txt`
-The output result is in the following format:
+**result:** <br>You can find the result in the following file:
+`output/output.txt`.<br>The output result is in the following format:
 ```
 cdr: {'0': 0.005651006929750437, '1': 0.0020545118446591206, '2':0.0036751727019928787, '3': 0.01351130804370008,...}
 csr: {'0': 0.011682150937732259, '1': 0.0020338003154715136, '2': 0.006527391739653339, '3': 0.057927416419532404,...}
