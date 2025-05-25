@@ -1,7 +1,7 @@
-# HOCR
-**HOCR** (High-order Information-based Centrality Revision) is a type of node centrality revision method based on the high-order information of the network. This method extracts the high-order structure of network nodes, that is, the situation of nodes participating in the formation of cliques, and then cooperates with other attributes of nodes to revise the traditional centrality methods. According to the different attributes considered, it is divided into two revision methods: CDR (Convergent Degree Revised Method with High-Order Weighting) and CSR (Convergent Strength Revised Method with High-Order Weighting).  
-- **CDR**：Further highlights the importance of the node degree, and cooperates with the node clique structure information to revise the centrality score of the node.  
-- **CSR**：Defines the strength of the node according to the situation of the node participating in the formation of the clique, and then cooperates with the clique structure information to revise the centrality score of the node.
+# HSCM
+**HSCM** (Higher-order Structural Centrality Methods) are centrality methods based on the higher-order structure of the network. This method extracts the higher-order structure of network, that is, the situation of nodes participating in the formation of cliques, and then cooperates with other imformation of the original network to weighting the base centrality methods. According to the different attributes considered, there are two concrete methods: CDR (Clustered Degree Rank with Higher-order Weighting) and CSR (Clustered Strength Rank with Higher-order Weighting).  
+- **CDR**：Further highlights the importance of the node degree, and cooperates with the node clique structure information to weighting the base centrality score of the node.  
+- **CSR**：Defines the strength of the node according to the situation of the node participating in the formation of cliques, and then cooperates with the clique structure information to weighting the base centrality score of the node.
 ## Dependency
 This project runs in the environment of `python==3.10.12`.
 ## Installation
